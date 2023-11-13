@@ -15,6 +15,7 @@ using df.head().
 
 3.Import KMeans and use for loop to cluster the data.
 
+
 4.Predict the cluster and plot data graphs.
 
 5.Print the outputs and end the program
